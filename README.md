@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamnitish17
+- 👋 Hi, I’m @NitishRaj
 - 👀 I’m interested in ...programming language
 - 🌱 I’m currently learning ...c++ & java
 - 📫 How to reach me ...just mail me .. iamnitish1707@gmail.com
